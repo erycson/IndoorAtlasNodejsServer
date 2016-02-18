@@ -1,0 +1,15 @@
+{
+  "name": "IndoorAtlas-NodeJS-Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Érycson Nóbrega <egdn2004@gmail.com>",
+  "repository": { 
+    "type": "git", 
+    "url": "https://github.com/erycson/IndoorAtlasNodejsServer"
+  },
+  "license": "GPL-3.0"
+}
